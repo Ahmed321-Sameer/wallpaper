@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "909292911955",
+    "project_id": "fattafatt-walls-flutter-pro",
+    "storage_bucket": "fattafatt-walls-flutter-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909292911955:android:2abd49ff5a6e0a562875a6",
+        "android_client_info": {
+          "package_name": "com.hybridwalls.hybridsol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909292911955-ut2be6vjs55s81jup2v8er7r76grmk6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw-bxCJF_XGaw9mwayXblKZBoBfGzDJJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909292911955-ut2be6vjs55s81jup2v8er7r76grmk6c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "909292911955-qegf2dll945m1kujl0eadn5g5cl7agc9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hybridwalls.hybridsol"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

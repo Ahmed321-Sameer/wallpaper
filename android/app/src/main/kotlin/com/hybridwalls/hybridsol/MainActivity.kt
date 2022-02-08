@@ -1,0 +1,6 @@
+package com.hybridwalls.hybridsol
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
